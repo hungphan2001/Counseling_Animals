@@ -1,0 +1,94 @@
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom16.exe.config
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom16.exe
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom16.pdb
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csprojResolveAssemblyReference.cache
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.Cache
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom16.exe
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom16\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom16.pdb
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom16.exe.config
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom16.exe
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom16.pdb
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM16\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csprojResolveAssemblyReference.cache
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.Cache
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+D:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+E:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+E:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+E:\desktop\Hệ Chuyeenn Gia\HCGNHOM2\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.AssemblyReference.cache
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+D:\Hoc tap\HCGNHOM\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.AssemblyReference.cache
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+E:\Program Files\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.AssemblyReference.cache
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.SuggestedBindingRedirects.cache
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+D:\Private\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csprojAssemblyReference.cache
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Main.resources
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlyluat.resources
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.quanlysukien.resources
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan.resources
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+C:\Users\HLC_2021\Desktop\HCG TVDL\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan1.resources
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan1.resources
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
