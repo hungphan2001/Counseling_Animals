@@ -13,7 +13,7 @@ namespace HeChuyenGia_Nhom2
         SqlConnection con;
         public ketnoi()
         {
-            con = new SqlConnection(@"Data Source=DESKTOP-O4T8056\SQLEXPRESS;Initial Catalog=dulich1;Integrated Security=True");
+            con = new SqlConnection(@"Data Source=DESKTOP-O4T8056\SQLEXPRESS;Initial Catalog=Animals;Integrated Security=True");
             con.Open();
         
         }

@@ -92,3 +92,13 @@ D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.
 D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
 D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
 D:\Hoctap\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.AssemblyReference.cache
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.tuvan1.resources
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.GenerateResource.cache
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.csproj.CoreCompileInputs.cache
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+D:\Studying\HCG\HeChuyenGia\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb

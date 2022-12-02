@@ -20,11 +20,11 @@ namespace HeChuyenGia_Nhom2
         {
             InitializeComponent();
         }
-        SqlConnection cnn = new SqlConnection(@"Data Source=DESKTOP-O4T8056\SQLEXPRESS;Initial Catalog=dulich1;Integrated Security=True");
+        SqlConnection cnn = new SqlConnection(@"Data Source=DESKTOP-O4T8056\SQLEXPRESS;Initial Catalog=Animals;Integrated Security=True");
         private void ketnoicsdl()
         {
             cnn.Open();
-            string sql = "select masukien,motasukien from tblsukien WHERE loaisukien NOT LIKE '%diadiem%'";  // lay het du lieu trong bang sinh vien
+            string sql = "select masukien,motasukien from tblsukien WHERE loaisukien NOT LIKE '%convat%'";  // lay het du lieu trong bang sinh vien
             SqlCommand com = new SqlCommand(sql, cnn); //bat dau truy van
             com.CommandType = CommandType.Text;
             SqlDataAdapter da = new SqlDataAdapter(com); //chuyen du lieu ve
@@ -36,7 +36,7 @@ namespace HeChuyenGia_Nhom2
         private void tuvan1_Load(object sender, EventArgs e)
         {
             ketnoicsdl();
-            string qr = "select masukien,motasukien from tblsukien where loaisukien='diadiem'";
+            string qr = "select masukien,motasukien from tblsukien where loaisukien='convat'";
             DataTable tbTruong = kn.getTable(qr);
             for (int i = 0; i < tbTruong.Rows.Count; i++)
             {
