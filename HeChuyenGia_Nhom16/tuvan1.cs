@@ -69,8 +69,8 @@ namespace HeChuyenGia_Nhom2
                 gt.Add(mask);
             }
             int d = 0;
-            progressBar.Maximum = ListMadiadiem.Count - 1;
-            progressBar.Minimum = 0;
+            //progressBar.Maximum = ListMadiadiem.Count - 1;
+           // progressBar.Minimum = 0;
             if (gt.Count > 0)
             {
                 int dem = 0;
@@ -81,7 +81,7 @@ namespace HeChuyenGia_Nhom2
                         btnReset.Enabled = false;
                         break;
                     }
-                    progressBar.Value = dem;
+                    //progressBar.Value = dem;
                     List<string> kl = new List<string>();
                     kl.Add(s);
 
@@ -93,9 +93,10 @@ namespace HeChuyenGia_Nhom2
                     dem++;
                     SendKeys.Flush();
                 }
+                MessageBox.Show("Bạn đã khảo sát thành công !");
                 if (d == 0 && run != false)
                 {
-                    ricKQ.Text = "Không có địa điểm nào phù hợp!!!\nXin vui lòng chọn lại!!";
+                    ricKQ.Text = "Không có tìm thấy con vật nào !!!\nXin vui lòng chọn lại!!";
                 }
             }
             else
@@ -111,5 +112,16 @@ namespace HeChuyenGia_Nhom2
             dgvtuvan.Rows.Clear();
             dgvtuvan.Refresh();
         }
+
+        private void dgvsukien_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
